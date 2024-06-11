@@ -1,0 +1,20 @@
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+  width: 20rem;
+  gap: 1rem;
+  box-shadow: 2px 5px 10px grey;
+}
+img {
+  height: 30rem;
+  box-sizing: border-box;
+}
+
+.info{
+padding: 1rem;
+}
+
+.author{
+  font-size: 1rem;
+}
+
